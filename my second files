@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.support import expected condition as EC
+from selenium.webdriver.sup同事port import expected condition as EC
 from selenium.webdriver.support.ui import as WebDriverWait
 def search():
 driver.execute('windon.scrollTo(0,document.body.scrollHeight)')
